@@ -2,8 +2,6 @@
 ```md
 # Games API
 
-Este es un proyecto de Django REST Framework que gestiona una API para la administración de juegos. La API permite realizar operaciones CRUD sobre los juegos, subir imágenes, y manejar información detallada como título, género, plataforma, fecha de lanzamiento, desarrollador, descripción, calificación, precio, entre otros.
-
 ## Instalación
 
 Clona este repositorio y navega al directorio del proyecto:
